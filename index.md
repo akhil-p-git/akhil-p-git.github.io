@@ -22,4 +22,4 @@ Description of your project.
 
 Email: your@email.com
 
-[GitHub](https://github.com/yourusername) | [LinkedIn](https://linkedin.com/in/yourprofile)
+[GitHub](https://github.com/akhil-p-git) | [LinkedIn](https://www.linkedin.com/in/akhil-pinnani/)
