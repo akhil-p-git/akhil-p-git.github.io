@@ -29,3 +29,19 @@ An AI-powered education platform connecting students, tutors, and parents. Featu
 An AI-powered video generator tailored for pharmaceutical advertising. Create professional, compliant pharmaceutical ads with an intuitive and polished interface. Streamlines the creative process for healthcare marketing teams.
 
 [Live Demo](https://d1v5wy9q3smjkj.cloudfront.net/) | [GitHub](https://github.com/akhil-p-git/omnigen)
+
+---
+
+### Zero to Running Dev Environment
+
+A ready-to-go development environment setup. Clone the repo, follow the instructions, and have a fully configured coding environment at your fingertips. Perfect for quickly spinning up new projects or onboarding developers.
+
+[GitHub](https://github.com/akhil-p-git/Zero-to-Running-Dev-Environment)
+
+---
+
+### Site Layout
+
+A mapping tool designed for builders and construction teams. Plot out areas on an interactive map, analyze terrain data, and view key site statistics. Simplifies the planning process for construction and development projects.
+
+[Live Demo](https://d2p18kimlqk1xr.cloudfront.net/) | [GitHub](https://github.com/akhil-p-git/SiteLayout)
