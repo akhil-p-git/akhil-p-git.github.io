@@ -15,9 +15,3 @@ Brief introduction about yourself.
 Description of your project.
 
 [View on GitHub](https://github.com/yourusername/project)
-
----
-
-## Contact
-
-Email: akhilrvpinnani@gmail.com
