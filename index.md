@@ -16,6 +16,14 @@ Well versed in Typescript, Python, React, SQL, LangChain, n8n, Tableau, and anyt
 
 ## Projects
 
+### Precision Roof Measurement
+
+An AI-driven roof measurement and complexity mapping application. Upload satellite or aerial imagery to automatically detect roof boundaries, calculate precise measurements, and assess structural complexity. Built with Next.js and designed for roofing professionals and contractors.
+
+[Live Demo](https://precision-roof-measurement.vercel.app/) | [GitHub](https://github.com/akhil-p-git/Precision-Roof-Measurement-and-Complexity-Mapping)
+
+---
+
 ### Varsity Tutors
 
 An AI-powered education platform connecting students, tutors, and parents. Features include personalized tutor matching, real-time progress tracking, interactive group tutoring rooms, and gamified learning with competitive games where students earn points. Built to make quality education more accessible and engaging.
