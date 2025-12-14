@@ -53,3 +53,11 @@ A ready-to-go development environment setup. Clone the repo, follow the instruct
 A mapping tool designed for builders and construction teams. Plot out areas on an interactive map, analyze terrain data, and view key site statistics. Simplifies the planning process for construction and development projects.
 
 [Live Demo](https://d2p18kimlqk1xr.cloudfront.net/) | [GitHub](https://github.com/akhil-p-git/SiteLayout)
+
+---
+
+### QuickMacroLauncher
+
+A Dalamud plugin for Final Fantasy XIV that provides an organized, customizable UI panel for browsing, searching, and executing in-game macros by category. Features include quick filtering, favorites, and shareable configuration codes.
+
+[GitHub](https://github.com/akhil-p-git/QuickMacroLauncher)
