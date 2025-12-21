@@ -8,7 +8,7 @@ Software engineer building AI-powered solutions to everyday problems.
 
 I am passionate about combining technical skills with business insight to deliver impact to individuals and organizations.
 
-My experience includes Full-Stack Development, AI-Integration, and Project Management.
+My experience includes Full-Stack Development, AI-Integration, and Project Coordination.
 
 Well versed in Typescript, Python, React, SQL, LangChain, n8n, Tableau, and anything else I need to learn to build impactful software.
 
